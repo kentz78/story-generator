@@ -1,4 +1,4 @@
-# Bedtime Story Generator — cohort repo
+# Story Generator
 
 A staged, hands-on **conversion course** that turns a working FastAPI Q&A app into a children's bedtime-story generator that calls Google's Gemini API and deploys to Vercel + Render — *one fundamental at a time, across eight modules.*
 
